@@ -1,5 +1,17 @@
 <peekly>
 	<poll>
-		<url>http://www.</url>
+		<name>Equipe de France</name>
+		<image>http://1img.org/wp-content/uploads/2016/05/France-national-football-team-logo-1.png</image>
+		<people>["antoine+griezmann","paul+pogba","olivier+giroud","dimitri+payet","n+golo+kante","balise+matuidi","patrice+evra"]</people>
+	</poll>
+	<poll>
+		<name>Présidentielle 2017</name>
+		<image>https://pbs.twimg.com/profile_images/378800000710612123/f13e52bfeb44a27b4be683acbad1fdfc_400x400.png</image>
+		<people>["nicolas+sarkozy","francois+hollande","emmanuel+macron","alain+juppe","jean+luc+melenchon","marine+le+pen"]</people>
+	</poll>
+	<poll>
+		<name>Primaire LR</name>
+		<image>https://pbs.twimg.com/profile_images/604375643221069824/nSVqq-mL.png</image>
+		<people>["nicolas+sarkozy","alain+juppe","bruno+lemaire","jean+francois+cope","francois+fillon"]</people>
 	</poll>
 </peekly>
